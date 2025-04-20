@@ -1,4 +1,2 @@
-# WARNING! THE EMULATOR DOES NOT HAVE ENOUGH INSTRUCTIONS TO (PROBABLY) EXECUTE MOST OF THE ROMS IN /roms
--# im sorry 
-<hr>
-A CHIP-8 Emulator in Python to learn the basics of emulation. 
+# this is another stupid dumb project i did
+roms are in /roms, most of them dont work because the emulator is not finished im sorry
